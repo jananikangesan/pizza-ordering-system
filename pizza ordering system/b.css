@@ -1,0 +1,70 @@
+#head{
+            background-color:rgb(255,153,153);
+			height:100px;
+			color: rgb(255,255,255);
+			text-align:center;
+			
+}
+
+#pizza{
+	
+	border:10px solid #bfbfbf;
+	
+}
+
+body{
+	background-color:#f2f2f2;
+}
+.btn {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background:#ff8080;
+    border: none;
+    border-radius: 5px;
+	width:300px;
+	
+}
+
+#a{
+	text-align:center;
+	color:#b30000;
+	background-color:#ffcccc;
+}
+
+form {
+    width: 30%;
+    margin: 50px auto;
+    text-align: left;
+    padding: 20px; 
+    border: 10px solid #bfbfbf; 
+    border-radius: 5px;
+}
+.input-group {
+    margin: 10px 0px 10px 0px;
+}
+.input-group label {
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+.input-group input {
+    height: 30px;
+    width: 70%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+#msg {
+    margin: 30px auto; 
+    padding: 10px; 
+    border-radius: 5px; 
+    color: #990000; 
+    background: #ffe6e6; 
+    border: 2px solid #660000;
+    width: 50%;
+    text-align: center;
+	font-size: 25px;
+}
