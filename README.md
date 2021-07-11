@@ -1,2 +1,4 @@
 # pizza-ordering-system
- This system was developed by using HTML,CSS,PHP
+
+This is 2nd year individual project.
+This system was developed by using HTML,CSS,PHP
